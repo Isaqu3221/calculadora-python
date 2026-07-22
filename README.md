@@ -8,7 +8,7 @@ Projeto desenvolvido em Python para realizar cálculos matemáticos.
 - Subtração
 - Multiplicação
 - Divisão
-- Raiz quadrada
+- Raiz Quadrada
 - Porcentagem
 
 ## Tecnologias
